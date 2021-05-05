@@ -22,7 +22,7 @@ body {
 .register {
   background-image: linear-gradient(#21c08b, #8f57fd);
   display: flex;
-  align-items: center;
+  align-items: centerlos ;
   flex-direction: column;
   justify-content: center;
   padding: 0px 30px;
