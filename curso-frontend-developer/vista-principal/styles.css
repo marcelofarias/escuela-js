@@ -64,12 +64,14 @@ body {
 .header__menu--profile img {
   margin-right: 8px;
   width: 40px;
+  margin-top: 0.5cm;
+  margin-left: 0.2cm;
 }
 
 .main {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: last baseline;
   flex-direction: column;
   height: 300px;
   border-radius: 0px 0px 40px 40px;
