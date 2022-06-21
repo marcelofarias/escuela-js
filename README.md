@@ -1,2 +1,0 @@
-# escuela-js
-Teterete
